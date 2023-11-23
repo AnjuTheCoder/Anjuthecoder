@@ -1,4 +1,4 @@
-
+<img src="https://github.com/AnjuTheCoder/Anjuthecoder/blob/main/github.png">
 
 <!--
 **AnjuTheCoder/Anjuthecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
